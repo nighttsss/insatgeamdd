@@ -1,0 +1,25 @@
+{
+  "name": "instagram-tools",
+  "version": "1.0.0",
+  "description": "Instagram Tools in new Instagram Private API's library version.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rifqihaidar/Instagram-Tools.git"
+  },
+  "author": "Rifqi Haidar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rifqihaidar/Instagram-Tools/issues"
+  },
+  "homepage": "https://github.com/rifqihaidar/Instagram-Tools#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.5.0",
+    "instagram-private-api": "^1.21.1"
+  }
+}
